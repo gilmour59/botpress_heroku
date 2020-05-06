@@ -1,0 +1,33 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "onReceive": [],
+    "next": []
+  },
+  "startNode": "entry",
+  "nodes": [
+    {
+      "id": "entry",
+      "name": "entry",
+      "next": [
+        {
+          "condition": "true",
+          "node": "greeting"
+        }
+      ],
+      "onEnter": [],
+      "onReceive": null
+    },
+    {
+      "id": "1d50af34a6",
+      "name": "greeting",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-47yapd",
+        "say #!builtin_text-9Uw3cM"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

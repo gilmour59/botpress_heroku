@@ -1,0 +1,9 @@
+{
+  "$schema": "../../assets/modules/channel-messenger/config.schema.json",
+  "enabled": true,
+  "appSecret": "186be5480c1b4489eff3d03c3dcb8d8b",
+  "verifyToken": "XU8bL0uIPt",
+  "accessToken": "EAAJp0gpA2x0BAMnmVJlFNcESuYrohmrcr61s31BXLkOb0l5ypf6nqqMrqSdEqBtLNNpNS2vXvpJW8dfuPndv7dJkQkrCBOuZCWXUq9ZBCcciutZCg0jMZB9ryYMGfpT2axSdF06VYKZCVjbXRRBiBghsbXu2BfTOfadtNuAAdDAZDZD",
+  "persistentMenu": [],
+  "chatUserAuthDuration": "24h"
+}

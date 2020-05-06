@@ -1,0 +1,24 @@
+[
+  {
+    "id": "builtin_text-47yapd",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Hi!"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-05-01T05:35:08.662Z",
+    "modifiedOn": "2020-05-01T05:36:07.985Z"
+  },
+  {
+    "id": "builtin_text-9Uw3cM",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I'm test bot"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-05-01T05:36:18.474Z",
+    "modifiedOn": "2020-05-01T05:36:18.474Z"
+  }
+]
